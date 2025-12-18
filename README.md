@@ -32,7 +32,7 @@ Control your spaceship to defeat waves of invading chickens. Progress through **
 - Auto-fire weapon system
 - Health, shield & power-ups
 - High score tracking
-- Menu, settings, pause & game over screens
+- Menu, settings, game over screens
 
 ---
 
@@ -41,13 +41,13 @@ Control your spaceship to defeat waves of invading chickens. Progress through **
 | Item | Effect |
 |------|--------|
 | ❤️ Heart | Restore health |
-| 🛡 Shield | Block one hit |
-| 🔫 Laser | Laser weapon |
-| 🚀 Rocket | Rocket weapon |
-| 💥 Damage Up | Increase damage |
-| 🔁 Double Shot | Two bullets |
-| 🔂 Triple Shot | Three bullets |
-| 🧨 Pierce | Bullets go through enemies |
+| <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/81418cbc-cc45-4e6e-8d88-65d6df5710ed" /> Shield | Block one hit |
+| <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/f1e1fbd6-814d-4138-b4a9-965120d48408" /> Laser | Laser weapon |
+| <img width="20" height="30" alt="image" src="https://github.com/user-attachments/assets/d3e3e126-d81f-4e35-a09e-6c0bce4dc424" /> Rocket | Rocket weapon |
+| <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/17ec97c7-9e30-445f-aaca-07ce38added2" /> Damage Up | Increase damage |
+| <img width="20" height="22" alt="image" src="https://github.com/user-attachments/assets/f796c8be-d996-4d6d-899b-4719276a7a24" /> Double Shot | Two bullets |
+| <img width="20" height="15" alt="image" src="https://github.com/user-attachments/assets/bf87aa0a-93c7-432c-bee0-9bd6b6ffa669" /> Triple Shot | Three bullets |
+| <img width="20" height="21" alt="image" src="https://github.com/user-attachments/assets/ed44f402-3e37-4761-b374-a7245940d2fc" /> Pierce | Bullets go through enemies |
 
 ---
 
